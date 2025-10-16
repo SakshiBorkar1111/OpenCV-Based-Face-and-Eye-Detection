@@ -6,12 +6,18 @@ Using OpenCV’s pre-trained Haar cascades, the system scans an image to identif
 
 ### Features:
 •	Detects human faces in images
+
 •	Detects eyes within detected faces
+
 •	Uses Haar Cascade Classifiers (pre-trained XML models)
+
 •	Simple and lightweight Python implementation
+
 •	Can process any input image
 
 ### Technologies Used:
 •	Python
+
 •	OpenCV (cv2)
+
 •	Haar Cascade Classifiers
